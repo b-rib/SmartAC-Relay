@@ -1,5 +1,12 @@
-//CLASS TimeRelayIno.h
-	//Used for polymorphism (Arduino application)
+/*
+	Class: AirConditionerRelayIno
+
+	To be used with "AirConditionerRelay" (polimorphism).
+	FSM (states: OnIno and OffIno).
+	Developed in: Microsoft Visual Studio 2017 (Windows 10 environment)
+	Developed by: Brenda Ribeiro
+*/
+
 #pragma once
 #include "AirConditionerRelay.h"
 #include "OffIno.h"

@@ -1,8 +1,13 @@
-//CLASS OnWin.h
-	//FSM state: ON (Windows application)
+/*
+	Class: OnWin
+
+	FSM state: ON (Windows application)
+	Developed in: Microsoft Visual Studio 2017 (Windows 10 environment)
+	Developed by: Brenda Ribeiro
+*/
+
 #pragma once
 #include "State.h"
-//#include <iostream>
 using namespace std;
 
 class OnWin :

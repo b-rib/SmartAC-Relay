@@ -1,3 +1,11 @@
+/*
+	Class: TimeStamp
+
+	Produces a timestamp badsed on the board crystal (millis())
+	Developed in: ArduinoIDE (Windows 10 environment)
+	Developed by: Brenda Ribeiro
+*/
+
 #pragma once
 #include <time.h>
 using namespace std;

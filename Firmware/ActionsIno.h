@@ -1,9 +1,14 @@
-//CLASS ActionsIno.h
-	//Contains the actiond of the FSM (for Arduino application)
+/*
+	Class: ActionsIno
+
+	Contains the actions of the implemented FSM.
+	Developed in: ArduinoIDE (Windows 10 environment)
+	Developed by: Brenda Ribeiro
+*/
+
 #pragma once
-//#include <iostream>
-#define airCond	4
-#define noPwr	5
+#define airCond	D4
+#define noPwr	D5
 using namespace std;
 
 class ActionsIno

@@ -1,8 +1,13 @@
-//CLASS OffWin.h
-	//FSM state: OFF (Windows application)
+/*
+	Class: OffWin
+
+	FSM state: OFF (Windows application)
+	Developed in: Microsoft Visual Studio 2017 (Windows 10 environment)
+	Developed by: Brenda Ribeiro
+*/
+
 #pragma once
 #include "State.h"
-//#include <iostream>
 using namespace std;
 
 class OffWin :

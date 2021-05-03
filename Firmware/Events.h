@@ -1,8 +1,13 @@
-//CLASS Events.h
-	//Virtual class.
-	//Contains the events of the FSM
+/*
+	Class: Events
+
+	Virtual class.
+	Contains the events (inputs) of the FSM.
+	Developed in: Microsoft Visual Studio 2017 (Windows 10 environment)
+	Developed by: Brenda Ribeiro
+*/
+
 #pragma once
-//#include <iostream>
 using namespace std;
 
 class Events

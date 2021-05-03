@@ -1,5 +1,11 @@
-//CLASS TimeRelay.h
-	//Used for polymorphism (abstract)
+/*
+	Class: AirConditionerRelay
+
+	Abstract. FSM.
+	Developed in: Microsoft Visual Studio 2017 (Windows 10 environment)
+	Developed by: Brenda Ribeiro
+*/
+
 #pragma once
 #include "State.h"
 

@@ -1,7 +1,17 @@
-// CLASS Serial.h
-//	Based on: 
-//		SERIAL COMUNICATION IN WIN32 (http://www.egmont.com.pl/addi-data/instrukcje/standard_driver.pdf)
-//		Class "SerialClass" (https://playground.arduino.cc/Interfacing/CPPWindows/)
+/*
+	Class: Serial
+
+	This class establishes connection to serial ports.
+	Functionallities:
+		- Establishes connection to a COM port
+		- Reads data from serial port
+		- Writes data to serial port
+	Based on:
+		SERIAL COMUNICATION IN WIN32 (http://www.egmont.com.pl/addi-data/instrukcje/standard_driver.pdf)
+		Class "SerialClass" (https://playground.arduino.cc/Interfacing/CPPWindows/)
+	Adapted by: Brenda Ribeiro
+*/
+
 #pragma once
 #include <iostream>
 #include <windows.h>

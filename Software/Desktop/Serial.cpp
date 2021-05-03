@@ -1,3 +1,9 @@
+/*
+	Class: Serial
+
+	Check header file for more details
+*/
+
 #include "Serial.h"
 
 Serial::Serial(const char *portName)

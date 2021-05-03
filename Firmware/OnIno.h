@@ -1,8 +1,13 @@
-//CLASS OnIno.h
-	//FSM state: ON (Arduino application)
+/*
+	Class: OnIno
+
+	FSM state: ON (Arduino/NodeMCU application)
+	Developed in: ArduinoIDE (Windows 10 environment)
+	Developed by: Brenda Ribeiro
+*/
+
 #pragma once
 #include "State.h"
-//#include <iostream>
 using namespace std;
 
 class OnIno :

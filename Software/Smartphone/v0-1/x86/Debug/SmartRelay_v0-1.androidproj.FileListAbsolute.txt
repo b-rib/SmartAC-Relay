@@ -1,0 +1,11 @@
+C:\Users\Brenda\source\repos\SmartRelay_v0-1\SmartRelay_v0-1\x86\Debug\SmartRelay_v0_1.apk.recipe
+C:\Users\Brenda\source\repos\SmartRelay_v0-1\SmartRelay_v0-1\x86\Debug\SmartRelay_v0_1.apk.recipe.merged
+C:\Users\Brenda\source\repos\SmartRelay_v0-1\SmartRelay_v0-1\x86\Debug\Package\libs\x86\gdbserver
+C:\Users\Brenda\source\repos\SmartRelay_v0-1\SmartRelay_v0-1\x86\Debug\Package\res\values\strings.xml
+C:\Users\Brenda\source\repos\SmartRelay_v0-1\SmartRelay_v0-1\x86\Debug\Package\src\com\SmartRelay_v0-1\SmartRelay_v0_1.java
+C:\Users\Brenda\source\repos\SmartRelay_v0-1\SmartRelay_v0-1\x86\Debug\Package\AndroidManifest.xml
+C:\Users\Brenda\source\repos\SmartRelay_v0-1\SmartRelay_v0-1\x86\Debug\Package\project.properties
+C:\Users\Brenda\source\repos\SmartRelay_v0-1\SmartRelay_v0-1\x86\Debug\Package\build.xml
+C:\Users\Brenda\source\repos\SmartRelay_v0-1\SmartRelay_v0-1\x86\Debug\FileStringReplace.incremental
+C:\Users\Brenda\source\repos\SmartRelay_v0-1\SmartRelay_v0-1\x86\Debug\SmartRelay_v0_1.apk
+C:\Users\Brenda\source\repos\SmartRelay_v0-1\SmartRelay_v0-1\x86\Debug\SmartRelay_v0_1.lastsuccessfuldeploy

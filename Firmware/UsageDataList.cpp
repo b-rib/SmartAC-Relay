@@ -15,6 +15,7 @@ UsageDataList::~UsageDataList()
 		head = cursor;
 	}
 	head = nullptr; // Officially empty
+  tail = nullptr;
 }
 
 void UsageDataList::insertBeforeFirst(char newEvent, int newYear, int newMonth, int newDay, int newHour, int newMinute, int newSecond)
@@ -28,8 +29,15 @@ void UsageDataList::insertBeforeFirst(char newEvent, int newYear, int newMonth, 
 
 void UsageDataList::insertAfterLast(char newEvent, int newYear, int newMonth, int newDay, int newHour, int newMinute, int newSecond)
 {
-	tail->setNext(new UsageDataNode(newEvent, newYear, newMonth, newDay, newHour, newMinute, newSecond, nullptr));
-	tail = tail->getNext();
+	if (tail == nullptr)
+  {
+    tail = new UsageDataNode(newEvent, newYear, newMonth, newDay, newHour, newMinute, newSecond, nullptr);
+  }
+  if (tail != nullptr)
+  {
+    tail->setNext(new UsageDataNode(newEvent, newYear, newMonth, newDay, newHour, newMinute, newSecond, nullptr));
+    tail = tail->getNext();
+  }
 	if (head == nullptr)
 	{
 		head = tail;

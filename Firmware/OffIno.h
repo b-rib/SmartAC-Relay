@@ -1,8 +1,13 @@
-//CLASS OffIno.h
-	//FSM state: OFF (Arduino application)
+/*
+	Class: OffIno
+
+	FSM state: OFF (Arduino/NodeMCU application)
+	Developed in: ArduinoIDE (Windows 10 environment)
+	Developed by: Brenda Ribeiro
+*/
+
 #pragma once
 #include "State.h"
-//#include <iostream>
 using namespace std;
 
 class OffIno :
